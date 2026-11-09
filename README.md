@@ -19,7 +19,7 @@ My focus will be on 5 sheets: 'First_Arrival_Countries_Monthly','Other_Countries
 
 **Data type** is text / numerical.
 
-**DS problem** is Regression, because I want to make prediction of illegal migration arrivals in the EU / Montenegro months by months in 2027.
+**DS problem** is Linear Regression, because I want to make prediction of illegal migration arrivals in the EU / Montenegro months by months in 2027.
 
 **The Problem at Hand**
 
