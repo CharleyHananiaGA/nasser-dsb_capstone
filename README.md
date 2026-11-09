@@ -1,5 +1,5 @@
 ## DSB CAPSTONE PROJECT
-**Project Title: Irregular Migration Across the Western Balkan Route, impact on Montenegro and estimation of the number of illegals by month in 2027**
+**Project Title: Irregular Migration Across the Western Balkan Route, impact on Montenegro and prediction of the number of illegal migrants by month in 2027**
 
 This project provides a comprehensive data science approach to understanding irregular migration dynamics along the southern branch of the Western Balkan Route (WBR), with a specific focus on Montenegro as a one of the key transit hub to the Europan Union (EU). Utilizing public datasets from the International Organization for Migration (IOM) Displacement Tracking Matrix (DTM) - Dataset: 
 1)Europe — Mixed Migration Flows to Europe, Quarterly Overview (April - June 2026).
@@ -40,5 +40,5 @@ So far I have downloaded data sets, checked source validation, and through data 
 I plotted some data, in order to see the trends and now I am trying to concretize my activities on the conception of concrete actions syntax that would help me to get the answer to my DataScience question.
 
 **Next steps**
-I will make several models where I will do a test and training. I am going us the Decision tree, Random forest, Clustering, In order to make as good a prediction as possible for the potential number of illegal migrants per month in 2027.
+I will make several models where I will do a test and training to find the best model for prediction. I am going to us the Decision tree, Random forest, Clustering, In order to make as good prediction as possible for the potential number of illegal migrants per month in 2027.
 
