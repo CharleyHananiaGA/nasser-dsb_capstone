@@ -3,7 +3,7 @@
 
 This project provides a comprehensive data science approach to understanding irregular migration dynamics along the southern branch of the Western Balkan Route (WBR), with a specific focus on Montenegro as a one of the key transit hub to the Europan Union (EU). Utilizing public datasets from the International Organization for Migration (IOM) Displacement Tracking Matrix (DTM) - Dataset: 
 1)Europe — Mixed Migration Flows to Europe, Quarterly Overview (April - June 2026).
-The above database that I treat includes data for the period from 2016 and the first quarter of 2016.
+The above database that I treat includes data for the period from 2016 and the first quarter of 2026.
 The project builds an end-to-end data pipeline.
 The workflow encompasses data ingestion, data manipulation, exploratory data analysis (EDA), and predictive modeling. 
 
